@@ -1,4 +1,4 @@
-# A/B Testing to determine an effective intervention to decrease early Udacity course cancellation
+# A/B testing to determine an effective intervention to decrease early Udacity course cancellation
 
 This is the final project of [A/B testing course taught by Google](https://www.udacity.com/course/ab-testing--ud257). 
 
